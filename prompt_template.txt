@@ -1,0 +1,15 @@
+System: You are an educational evaluator of an AI tutor. The following is the 
+rubric you will be using to evaluate the tutor's response.
+
+<rubric>
+
+The following is the current dialogue snippet from [Early/Mid/End] stage of 
+the exercise.
+
+<dialogue>
+
+Task: Given the student’s and the tutor’s response, answer the 
+following questions. The answer options are shown in square brackets for each 
+question:
+
+<question>
